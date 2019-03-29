@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextZuBinärConverter", "TextZuBinärConverter\TextZuBinärConverter.csproj", "{494DE7DE-5649-4AEF-8DD9-1477877726AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextZuBinärConverter.Tests", "TextZuBinärConverter.Tests\TextZuBinärConverter.Tests.csproj", "{94620D08-9E5E-41AF-B947-DA22045EF646}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{494DE7DE-5649-4AEF-8DD9-1477877726AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494DE7DE-5649-4AEF-8DD9-1477877726AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494DE7DE-5649-4AEF-8DD9-1477877726AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494DE7DE-5649-4AEF-8DD9-1477877726AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94620D08-9E5E-41AF-B947-DA22045EF646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94620D08-9E5E-41AF-B947-DA22045EF646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94620D08-9E5E-41AF-B947-DA22045EF646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94620D08-9E5E-41AF-B947-DA22045EF646}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B43E2D0-9BDD-416E-88BE-293E2183097D}
+	EndGlobalSection
+EndGlobal
